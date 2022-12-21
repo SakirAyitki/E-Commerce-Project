@@ -1,5 +1,6 @@
 ﻿using Bussiness.Abstract;
 using Bussiness.Concrete;
+using Core.Utilities.Results;
 using DataAccess.Abstract;
 using DataAccess.Concrete.EntityFramework;
 using Entities.Concrete;
@@ -20,13 +21,61 @@ namespace WebAPI.Controllers
             _productService = productService;
         }
 
-        [HttpGet]
+        [HttpGet("getall")]
 
-        public List<Product> Get()
+        public IActionResult GetAll()
         {
             var result = _productService.GetAll();
-            return result.Data;
+
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+
+            return BadRequest(result);
         }
+
+
+        [HttpGet("getbyid")]
+        public IActionResult GetById(int id)
+        {
+            var result = _productService.getById(id);
+
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+
+            return BadRequest(result);
+        }
+
+        [HttpGet("getbycategoryid")]
+        public IActionResult GetByCategoryId(int id)
+        {
+            var result = _productService.GetAllByCategoryId(id);
+
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+
+            return BadRequest(result);
+        }
+
+        [HttpPost("add")]
+
+        public IActionResult Add(Product product)
+        {
+            var result = _productService.Add(product);
+
+            if (result.Success)
+            {
+                return Ok(result);
+            }
+            return BadRequest(result);
+        }
+
+
 
     }
 }
