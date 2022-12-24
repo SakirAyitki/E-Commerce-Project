@@ -27,9 +27,9 @@ namespace ConsoleUI
 
             var result = productManager.GetProductDetails();
 
-            if(result.Success)
+            if (result.Success)
             {
-                
+
                 foreach (var product in result.Data)
                 {
                     Console.WriteLine("Product:" + product.ProductName + "\nCategory:" + product.CategoryName + "\nUnits In Stock:" + product.UnitsInStock + " \n\n");
@@ -40,7 +40,7 @@ namespace ConsoleUI
                 Console.WriteLine(result.Message);
             }
 
-            
+
         }
     }
 }
