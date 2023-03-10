@@ -11,7 +11,7 @@ builder.Host.UseServiceProviderFactory(services => new AutofacServiceProviderFac
     .ConfigureContainer<ContainerBuilder>(builder => { builder.RegisterModule(new AutofacBusinessModule()); });
 
 
-builder.Services.AddControllers();
+builder.Services.AddControllers(); 
 //builder.Services.AddSingleton<IProductService, ProductManager>();
 //builder.Services.AddSingleton<IProductDal, EfProductDal>();
 builder.Services.AddEndpointsApiExplorer();
