@@ -83,12 +83,17 @@ namespace Bussiness.Concrete
         [ValidationAspect(typeof(ProductValidator))]
         public IResult Update(Product product)
         {
-            if (CheckIfProductCountOfCategory(product.CategoryId).Success)
+
+            var result = BusinessRules.Run(CheckIfCategoryLimitExceded(), CheckIfPrdouctNameExists(product.ProductName),
+                CheckIfProductCountOfCategory(product.CategoryId));
+
+            if (result!=null)
             {
-                return new SuccessResult();
-                _productDal.Update(product);
+                return result;
             }
-            return new ErrorResult();
+
+            _productDal.Update(product);
+            return new SuccessResult(Messages.ProductUpdated);
         }
 
 
@@ -117,10 +122,11 @@ namespace Bussiness.Concrete
             var result = _categoryService.GetAll();
             if (result.Data.Count>15)
             {
-                return new ErrorResult(Messages.CheckIfCategoryLimitExceded);
+                return new ErrorResult(Messages.CheckIfCategoryLimitExceded); 
             }
             return new SuccessResult();
         }
+
 
     }
 }
