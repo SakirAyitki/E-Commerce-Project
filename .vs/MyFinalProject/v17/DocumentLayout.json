@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|c:\\users\\ayitk\\source\\repos\\bosisler\\myfinalproject\\core\\extensions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|solutionrelative:core\\extensions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|c:\\users\\ayitk\\source\\repos\\bosisler\\myfinalproject\\core\\extensions\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|solutionrelative:core\\extensions\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|c:\\users\\ayitk\\source\\repos\\bosisler\\myfinalproject\\core\\extensions\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|solutionrelative:core\\extensions\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|c:\\users\\ayitk\\source\\repos\\bosisler\\myfinalproject\\core\\extensions\\claimextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|solutionrelative:core\\extensions\\claimextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|c:\\users\\ayitk\\source\\repos\\bosisler\\myfinalproject\\core\\utilities\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|c:\\users\\ayitk\\source\\repos\\bosisler\\myfinalproject\\core\\utilities\\security\\encryption\\signingcredentialshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\encryption\\signingcredentialshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|c:\\users\\ayitk\\source\\repos\\bosisler\\myfinalproject\\core\\utilities\\security\\jwt\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|c:\\users\\ayitk\\source\\repos\\bosisler\\myfinalproject\\core\\utilities\\security\\jwt\\itokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\itokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|c:\\users\\ayitk\\source\\repos\\bosisler\\myfinalproject\\core\\utilities\\security\\encryption\\securitykeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\encryption\\securitykeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|c:\\users\\ayitk\\source\\repos\\bosisler\\myfinalproject\\core\\utilities\\security\\hashing\\hashinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\hashing\\hashinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|c:\\users\\ayitk\\source\\repos\\bosisler\\myfinalproject\\core\\utilities\\security\\jwt\\accesstoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\accesstoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E6EC8-3CAE-4BD6-AA46-0BDFCDD49FBA}|WebAPI\\WebAPI.csproj|c:\\users\\ayitk\\source\\repos\\bosisler\\myfinalproject\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D7E6EC8-3CAE-4BD6-AA46-0BDFCDD49FBA}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|c:\\users\\ayitk\\source\\repos\\bosisler\\myfinalproject\\core\\entities\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|solutionrelative:core\\entities\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|c:\\users\\ayitk\\source\\repos\\bosisler\\myfinalproject\\core\\entities\\concrete\\operationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|solutionrelative:core\\entities\\concrete\\operationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|c:\\users\\ayitk\\source\\repos\\bosisler\\myfinalproject\\core\\entities\\concrete\\useroperationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2A7ECB-B644-4EB6-BC6E-528BE709E36B}|Core\\Core.csproj|solutionrelative:core\\entities\\concrete\\useroperationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Extensions\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Core\\Extensions\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Extensions\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Core\\Extensions\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:22:04.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Extensions\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "Core\\Extensions\\ErrorDetails.cs",
+              "ToolTip": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Extensions\\ErrorDetails.cs",
+              "RelativeToolTip": "Core\\Extensions\\ErrorDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:12:31.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClaimsPrincipalExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "RelativeDocumentMoniker": "Core\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "ToolTip": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "RelativeToolTip": "Core\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:12:29.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClaimExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Extensions\\ClaimExtensions.cs",
+              "RelativeDocumentMoniker": "Core\\Extensions\\ClaimExtensions.cs",
+              "ToolTip": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Extensions\\ClaimExtensions.cs",
+              "RelativeToolTip": "Core\\Extensions\\ClaimExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:12:26.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenOptions.cs",
+              "DocumentMoniker": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Utilities\\Security\\JWT\\TokenOptions.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\TokenOptions.cs",
+              "ToolTip": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Utilities\\Security\\JWT\\TokenOptions.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\TokenOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:04:31.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Utilities\\Security\\JWT\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Utilities\\Security\\JWT\\JwtHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\JwtHelper.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwB4AAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:56:01.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITokenHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
+              "ToolTip": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\ITokenHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:44:30.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccessToken.cs",
+              "DocumentMoniker": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Utilities\\Security\\JWT\\AccessToken.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\JWT\\AccessToken.cs",
+              "ToolTip": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Utilities\\Security\\JWT\\AccessToken.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\JWT\\AccessToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:42:53.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SigningCredentialsHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Utilities\\Security\\Encryption\\SigningCredentialsHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Encryption\\SigningCredentialsHelper.cs",
+              "ToolTip": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Utilities\\Security\\Encryption\\SigningCredentialsHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\Encryption\\SigningCredentialsHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:32:47.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SecurityKeyHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
+              "ToolTip": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:26:34.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HashingHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
+              "ToolTip": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:05:48.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-17T19:01:29.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OperationClaim.cs",
+              "DocumentMoniker": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Entities\\Concrete\\OperationClaim.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\OperationClaim.cs",
+              "ToolTip": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Entities\\Concrete\\OperationClaim.cs",
+              "RelativeToolTip": "Core\\Entities\\Concrete\\OperationClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:46:57.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserOperationClaim.cs",
+              "DocumentMoniker": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Entities\\Concrete\\UserOperationClaim.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\UserOperationClaim.cs",
+              "ToolTip": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Entities\\Concrete\\UserOperationClaim.cs",
+              "RelativeToolTip": "Core\\Entities\\Concrete\\UserOperationClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:46:54.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Entities\\Concrete\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\User.cs",
+              "ToolTip": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Entities\\Concrete\\User.cs",
+              "RelativeToolTip": "Core\\Entities\\Concrete\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:42:04.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
