@@ -22,7 +22,7 @@ namespace WebAPI.Controllers
         [HttpGet("getall")]
         public IActionResult GetList()
         {
-            var result = _categoryService.GetList();
+            var result = _categoryService.GetAll();
             if (result.Success)
             {
                 return Ok(result.Data);

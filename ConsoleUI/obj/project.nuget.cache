@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dIH6HxBuggnyRzSkKkAnEmJJAWgCNXRihm41DlKapahexWEHWyIJNx2jqA2cX36GJ8lhxPP3d68Eojjyduj6Tg==",
+  "dgSpecHash": "a5haplXlrRKPYXA7vJcSG0wKOdeR9mnHUxD82Kk3ogX2RlGJwrFL5gzwVGkGmzNdSLgTT7v4pd0IKh5hBfDFYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\ConsoleUI\\ConsoleUI.csproj",
+  "projectFilePath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ayitk\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\ayitk\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",

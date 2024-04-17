@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Business\\Business.csproj": {}
+    "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Business\\Business.csproj": {
+    "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\ayitk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Business\\obj\\",
+        "outputPath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Entities\\Entities.csproj"
+              "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Entities\\Entities.csproj"
               }
             }
           }
@@ -102,14 +102,14 @@
         }
       }
     },
-    "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Core.csproj": {
+    "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ayitk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\obj\\",
+        "outputPath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -164,6 +164,10 @@
               "target": "Package",
               "version": "[9.5.1, )"
             },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.0, )"
@@ -197,14 +201,14 @@
         }
       }
     },
-    "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\ayitk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -226,11 +230,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Core.csproj"
+              "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Core\\Core.csproj"
               },
-              "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Entities\\Entities.csproj"
+              "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Entities\\Entities.csproj"
               }
             }
           }
@@ -275,14 +279,14 @@
         }
       }
     },
-    "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\ayitk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -304,8 +308,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Core.csproj"
+              "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Core\\Core.csproj"
               }
             }
           }

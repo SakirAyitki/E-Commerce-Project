@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BY0I4JuEy4U0WHclo8iC4YRINMl6RQzmCbGtYmLjeSoJ7c3MZ2c6ZPjTaUKRVRKWgxPUOHB5nSe/fOkmgkcJGQ==",
+  "dgSpecHash": "2fJk30M+DX4Vl7AyIw9EVh52jdL9Pv95JPprz4X6b6yfQtAf6j98LoZ7OgYc+xoUCniw1IdBdC5RL4oxN+RS1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ayitk\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\ayitk\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",

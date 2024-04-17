@@ -2306,6 +2306,7 @@
           "Autofac.Extensions.DependencyInjection": "6.0.0",
           "Autofac.Extras.DynamicProxy": "6.0.0",
           "FluentValidation": "9.5.1",
+          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.0",
           "Microsoft.Extensions.Configuration.Binder": "6.0.0",
           "Newtonsoft.Json": "13.0.3"
@@ -7322,11 +7323,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\ayitk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Business\\obj\\",
+      "outputPath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7348,11 +7349,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Entities\\Entities.csproj"
+            "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Entities\\Entities.csproj"
             }
           }
         }

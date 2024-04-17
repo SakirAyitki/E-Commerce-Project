@@ -1,4 +1,5 @@
-﻿using Entities.Concrete;
+﻿using Core.Entities.Concrete;
+using Entities.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,5 +20,11 @@ namespace Business.Constants
         public static string ProductNameAlreadyExists = "Product name already exists! Please choose a different name.";
         public static string CategoryLimitExceded = "Category limit exceded so we can't add your product!";
         public static string AuthorizationDenied = "You're not authorized!";
+        internal static string UserRegistered;
+        internal static User UserNotFound;
+        internal static User PasswordError;
+        internal static string SuccessfulLogin;
+        internal static string UserAlreadyExists;
+        internal static string AccessTokenCreated;
     }
 }

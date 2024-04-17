@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Core.csproj": {}
+    "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Core.csproj": {
+    "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ayitk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ayitk\\source\\repos\\BosIsler\\MyFinalProject\\Core\\obj\\",
+        "outputPath": "C:\\Users\\ayitk\\Desktop\\E-Commerce-Project\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,6 +65,10 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[9.5.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
