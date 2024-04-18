@@ -152,3 +152,4 @@ C:\Users\ayitk\Desktop\E-Commerce-Project\WebAPI\obj\Debug\net6.0\scopedcss\bund
 C:\Users\ayitk\Desktop\E-Commerce-Project\WebAPI\obj\Debug\net6.0\WebAPI.csproj.Up2Date
 C:\Users\ayitk\Desktop\E-Commerce-Project\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
 C:\Users\ayitk\Desktop\E-Commerce-Project\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+C:\Users\ayitk\Desktop\E-Commerce-Project\WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
