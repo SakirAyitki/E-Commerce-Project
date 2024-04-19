@@ -141,3 +141,7 @@ C:\Users\ayitk\Desktop\E-Commerce-Project\ConsoleUI\obj\Debug\net6.0\refint\Cons
 C:\Users\ayitk\Desktop\E-Commerce-Project\ConsoleUI\obj\Debug\net6.0\ConsoleUI.pdb
 C:\Users\ayitk\Desktop\E-Commerce-Project\ConsoleUI\obj\Debug\net6.0\ConsoleUI.genruntimeconfig.cache
 C:\Users\ayitk\Desktop\E-Commerce-Project\ConsoleUI\obj\Debug\net6.0\ref\ConsoleUI.dll
+C:\Users\ayitk\Desktop\E-Commerce-Project\ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.Http.dll
+C:\Users\ayitk\Desktop\E-Commerce-Project\ConsoleUI\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ayitk\Desktop\E-Commerce-Project\ConsoleUI\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ayitk\Desktop\E-Commerce-Project\ConsoleUI\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll

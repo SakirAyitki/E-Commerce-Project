@@ -2,13 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Business",
-    "\\Business\\DependencyResolvers",
-    "\\Business\\DependencyResolvers\\Autofac",
-    "\\DataAccess",
-    "\\DataAccess\\Concrete",
-    "\\DataAccess\\Concrete\\EntityFramework",
-    "\\WebAPI"
+    "\\Business\\Concrete",
+    "\\WebAPI",
+    "\\WebAPI\\Controllers"
   ],
-  "SelectedNode": "\\DataAccess\\Concrete\\EntityFramework\\EfUserDal.cs",
+  "SelectedNode": "\\WebAPI\\Controllers\\ProductsController.cs",
   "PreviewInSolutionExplorer": false
 }

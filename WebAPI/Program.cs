@@ -11,6 +11,8 @@ using DataAccess.Abstract;
 using DataAccess.Concrete.EntityFramework;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
+using Core.Extensions;
+using Core.DependencyResolvers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,20 +20,16 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer(); 
+
+builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-//builder.Services.AddSingleton<IProductService, ProductManager>();
-//builder.Services.AddSingleton<IProductDal, EfProductDal>();
+builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory()).ConfigureContainer<ContainerBuilder>(builder =>
+{
+    builder.RegisterModule(new AutofacBusinessModule());
+});
 
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
-ServiceTool.Create(builder.Services);
-
-builder.Host.UseServiceProviderFactory(services => new AutofacServiceProviderFactory())
-    .ConfigureContainer<ContainerBuilder>(builder => 
-    {
-        builder.RegisterModule(new AutofacBusinessModule()); 
-    });
 
 var tokenOptions = builder.Configuration.GetSection("TokenOptions").Get<TokenOptions>();
 
@@ -50,10 +48,9 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
         };
     });
 
-ServiceTool.Create(builder.Services);
+builder.Services.AddDependencyResolvers(new ICoreModule[] {new CoreModule()});;
 
 var app = builder.Build();
-
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -64,8 +61,9 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
- 
+
 app.Run();
